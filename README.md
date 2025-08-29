@@ -31,7 +31,7 @@ PDF 학습 자료를 업로드하면 텍스트를 분할·벡터화(FAISS)하여
 
 ## 🎥 시연 영상 (Demo Video)
 
-[![시연 영상 보기](https://img.youtube.com/vi/uW6cQvnM6xE/hqdefault.jpg)](https://youtu.be/uW6cQvnM6xE "YouTube로 이동")
+https://youtu.be/uW6cQvnM6xE?si=2En3Lx2hrGD_0ao3
 
 ## streamlit 주소 
    https://smsc11.streamlit.app/
