@@ -28,6 +28,14 @@ PDF 학습 자료를 업로드하면 텍스트를 분할·벡터화(FAISS)하여
 **| 박수현 | 시스템반도체공학과 | 202321561 |**
 
 ---
+
+## 🎥 시연 영상 (Demo Video)
+
+[![시연 영상 보기](https://img.youtube.com/vi/uW6cQvnM6xE/hqdefault.jpg)](https://youtu.be/uW6cQvnM6xE "YouTube로 이동")
+
+## streamlit 주소 
+   https://smsc11.streamlit.app/
+
 ## 🛠 개발환경 및 개발도구
 
 - **협업도구** : GitHub  
@@ -161,9 +169,6 @@ PDF 학습 자료를 업로드하면 텍스트를 분할·벡터화(FAISS)하여
   </tr>
 </table>
 
-## 🎥 시연 영상 (Demo Video)
-
-[![시연 영상 보기](https://img.youtube.com/vi/uW6cQvnM6xE/hqdefault.jpg)](https://youtu.be/uW6cQvnM6xE "YouTube로 이동")
 
 ---
 # 📚 반도체 학습 모듈 개요
